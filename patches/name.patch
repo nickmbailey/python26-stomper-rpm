@@ -1,0 +1,11 @@
+--- a/setup.py	2010-09-28 16:21:05.000000000 +0000
++++ b/setup.py	2010-12-19 23:24:39.000000000 +0000
+@@ -9,7 +9,7 @@
+ from setuptools import setup, find_packages
+ 
+ 
+-Name='stomper'
++Name='python26-stomper'
+ ProjecUrl="http://code.google.com/p/stomper"
+ Version='0.2.4' # alpha release
+ Author='Oisin Mulvihill'
